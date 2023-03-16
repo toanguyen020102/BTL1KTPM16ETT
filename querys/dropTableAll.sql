@@ -1,0 +1,10 @@
+DROP TABLE ChiTietHoaDon
+DROP TABLE HoaDon
+DROP TABLE KhachHang
+DROP TABLE ChiTietSanPham
+DROP TABLE SanPham
+DROP TABLE LoaiSanPham
+DROP TABLE TaiKhoan
+DROP TABLE NhanVien
+
+DROP DATABASE QuanLyCuaHangBanQuanAo
